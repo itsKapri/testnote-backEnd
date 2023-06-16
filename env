@@ -1,0 +1,2 @@
+dbURL="mongodb+srv://19301033nilesh:admin@cluster0.aswekuy.mongodb.net/"
+JWT_key = "mySecretKey123"
